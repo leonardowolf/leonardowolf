@@ -4,4 +4,4 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardowolf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-![Snake animation](https://github.com/leonardowolf/leonardowolf/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/leonardowolf/leonardowolf/output/github-contribution-grid-snake.svg)
