@@ -1,7 +1,7 @@
 <div>
 <a href="https://github.com/leonardowolf">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardowolf&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardowolf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-two-neon-99.vercel.app/api/top-langs/?username=leonardowolf&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats-two-neon-99.vercel.app/api?username=leonardowolf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ![Snake animation](https://raw.githubusercontent.com/leonardowolf/leonardowolf/output/github-contribution-grid-snake.svg)
